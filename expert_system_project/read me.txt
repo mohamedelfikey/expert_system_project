@@ -1,0 +1,14 @@
+اسماء الطلاب المشاركة في المشروع
+1- محمد احمد السيد الفقي (سكشن 3)
+2-احمد حسين محمود نصار (سكشن 1)	
+3- محمود محى فتحى عتيم (سكشن 4)
+4- عبدالرحمن مجدى عبدالرازق محمد (سكشن 2)	
+5- عبدالرحمن ابراهيم عبده الفقى (سكشن 2)	
+
+
+we use data set from kaggle website (House Sales in King County, USA)		
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
+video link:
+https://drive.google.com/file/d/1M9nzD0OpH5mfuHIqCLPcNSMl2u_HrP0g/view?usp=sharing
+																																		
